@@ -1,7 +1,5 @@
 # GitHub Profile README
 
-# Hi, I'm Amna 👋
-
 🎓 Software Engineering Student @ COMSATS University
 💻 Python • UI/UX • Web Development
 
