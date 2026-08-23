@@ -7,7 +7,7 @@
 
 ## 💻 Featured Projects
 
-### 🛡️ Defence Academy Website
+### 🎓 Defence Academy Website
 
 A live educational platform that I designed, developed, deployed, and optimized for an educational institute.
 
